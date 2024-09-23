@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bb14d108-0ff1-4891-9201-80087b0b746b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/my_tennis_club/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_tennis_club/members/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_tennis_club/members/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_tennis_club/members/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_tennis_club/members/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_tennis_club/members/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_tennis_club/members/templates/myfirst.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_tennis_club/members/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_tennis_club/members/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_tennis_club/members/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_tennis_club/my_tennis_club/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_tennis_club/my_tennis_club/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_tennis_club/my_tennis_club/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_tennis_club/my_tennis_club/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_tennis_club/my_tennis_club/wsgi.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Hozek-V"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Hozek-V/first-django.git",
+    "accountId": "4e65165f-26f9-49e5-9f58-c6ea63b80c1a"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2mU0ggSg7lV2SqRzWsvFL1debkT" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb14d108-0ff1-4891-9201-80087b0b746b" name="Changes" comment="" />
+      <created>1727115959647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727115959647</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
